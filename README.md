@@ -1,4 +1,4 @@
-Hello world! 👋 This is me.. Let's utilize AI to turn our world into a better place!
+Hello world! 👋 This is me.. Let's turn our world into a better place with artificial intelligence!
 
 
 <!--- 
