@@ -1,4 +1,4 @@
-#Dorood doostan! 👋 
+Doroud doustan 👋 
 
 Let's utilize AI to turn our world into a better place..
 
