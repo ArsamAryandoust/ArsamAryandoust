@@ -6,3 +6,5 @@ Doroud doustan 👋 Committed to develop solutions for tackling climate change u
 
 See what we find out about [the potential and usefulness of Demand Response to provide electricity system services](https://www.sciencedirect.com/science/article/pii/S0306261917309066#f0005).
 
+
+<img src="/figure1.jpg" />
