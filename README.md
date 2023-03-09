@@ -1,7 +1,8 @@
 Doroud doustan 👋 
 
-Let's utilize AI to turn our world into a better place..
+Interested in applications of AI and ML for tackling climate change. See my list of publications for more.
 
+Let's utilize AI to turn our world into a better place..
 
 ![](https://github.com/ArsamAryandoust/ArsamAryandoust/blob/master/rollover.gif)
 
