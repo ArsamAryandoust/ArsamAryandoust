@@ -1,4 +1,4 @@
-Hello world 👋 I am exploring applications of AI for mitigating, adapting to and reversing climate change. Check out my [list of publications](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl) for more. Always happy to chat about new applications and ideas, so feel free to [reach out](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html). Let's utilize AI to turn our world into a better place..
+Hello world 👋 I am exploring applications of AI for mitigating and reversing climate change. Check out my [list of publications](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl) for more. Always happy to chat about new applications and ideas, so feel free to [reach out](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html). Let's utilize AI to turn our world into a better place..
 
 
 
