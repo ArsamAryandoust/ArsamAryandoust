@@ -1,7 +1,7 @@
 Doroud doustan 👋 Committed to develop solutions for tackling climate change using AI. [Check out my list of publications for more](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl). Always happy to chat about new ideas and applications. Let's utilize AI to turn our world into a better place..
 
 
-See for example what we find out about [city-scale car traffic and parking density maps](https://www.nature.com/articles/s41597-019-0159-6).
+See for example how we create [city-scale car traffic and parking density maps from Uber Movement travel time data](https://www.nature.com/articles/s41597-019-0159-6).
 
 <img src="/MethodFigure.png" />
 
