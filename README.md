@@ -4,7 +4,7 @@ Doroud doustan 👋 Committed to develop solutions for tackling climate change u
 See what we find out about [City-scale car traffic and parking density maps](https://www.nature.com/articles/s41597-019-0159-6).
 
 
-<img src="/figure1.jpg" />
+<img src="/MethodFigure.png" />
 
 
 
