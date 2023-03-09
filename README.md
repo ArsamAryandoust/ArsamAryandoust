@@ -1,4 +1,4 @@
-Doroud doustan 👋 Committed to develop solutions for tackling climate change using AI. [Check out my list of publications for more](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl). Always happy to chat about new ideas and applications. Let's utilize AI to turn our world into a better place..
+Doroud doustan 👋 Committed to develop solutions for tackling climate change using AI. [Check out my list of publications for more](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl). Always [happy to chat](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html) about new ideas and applications. Let's utilize AI to turn our world into a better place..
 
 
 See for example how we create [city-scale car traffic and parking density maps from Uber Movement travel time data](https://www.nature.com/articles/s41597-019-0159-6).
