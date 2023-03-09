@@ -1,6 +1,6 @@
 Doroud doustan 👋 
 
-Interested in applications of AI and ML for tackling climate change. See my list of publications for more.
+Interested in applications of AI and ML for tackling climate change. [See my list of publications for more](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl).
 
 Let's utilize AI to turn our world into a better place..
 
