@@ -11,7 +11,7 @@ or how we create [city-scale car traffic and parking density maps from Uber Move
 
 <img src="/MethodFigure.png" />
 
-or how we use GANs to have random fun. 
+or how we use GANs to have fun. 
 
 ![](https://github.com/ArsamAryandoust/ArsamAryandoust/blob/master/rollover.gif)
 
