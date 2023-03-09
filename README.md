@@ -1,4 +1,4 @@
-Doroud doustan 👋 Committed to developing solutions for tackling climate change using AI. [Check out my list of publications for more](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl). Always happy to chat about new ideas and applications. Let's utilize AI to turn our world into a better place..
+Doroud doustan 👋 Committed to developing solutions for tackling climate change using AI. [Check out my list of publications for more](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl). Always happy to chat about new ideas and applications. Let's utilize AI to turn our world into a better place 💪.
 
 ![](https://github.com/ArsamAryandoust/ArsamAryandoust/blob/master/rollover.gif)
 
