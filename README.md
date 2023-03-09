@@ -1,4 +1,4 @@
-Hello world 👋 Committed to develop solutions for tackling climate change using AI. Check out my [list of publications](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl) for more. Also, always happy to chat about new applications and ideas, so please feel free to [reach out](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html). Let's utilize AI to turn our world into a better place..
+Hello world 👋 Committed to develop solutions for tackling climate change using AI. Check out my [list of publications](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl) for more. Also, always happy to chat about new applications and ideas, so feel free to [reach out](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html). Let's utilize AI to turn our world into a better place..
 
 
 
