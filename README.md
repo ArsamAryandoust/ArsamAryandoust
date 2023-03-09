@@ -5,7 +5,7 @@ See for example what we find out about [city-scale car traffic and parking densi
 
 <img src="/MethodFigure.png" />
 
-or how we [enhanced spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x).
+or how we [enhance spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x).
 
 <img src="/plotly_dark_4.png" />
 
