@@ -1,8 +1,4 @@
-Hello world 👋. I explore how AI can assist us in mitigating climate change. Check out my [list of publications](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl) for more. Always happy to chat about new methods and ideas, so feel free to [reach out](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html).
-
-
-
-See for example how we [enhance spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x),
+Hello world 👋. I explore how AI can assist us in mitigating climate change. Check out my [list of publications](https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl) for more. Always happy to chat about new methods and ideas, so feel free to [reach out](https://usys.ethz.ch/personen/profil.MjEzNzU5.TGlzdC82MzcsMzIwMTk3MjIy.html). See for example how we [enhance spatio-temporal electric load forecasts using less data with active deep learning](https://www.nature.com/articles/s42256-022-00552-x),
 
 <img src="/plotly_dark_4.png" />
 
