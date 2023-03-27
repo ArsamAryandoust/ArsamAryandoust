@@ -11,7 +11,8 @@ or how we create [city-scale car traffic and parking density maps from Uber Move
 
 <img src="/MethodFigure.png" />
 
-Let's use AI to turn our world into a better place!
 
-<!-- ![](https://github.com/ArsamAryandoust/ArsamAryandoust/blob/master/rollover.gif) -->
+
+<!-- Let's use AI to turn our world into a better place! 
+![](https://github.com/ArsamAryandoust/ArsamAryandoust/blob/master/rollover.gif) -->
 
