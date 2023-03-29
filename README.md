@@ -6,9 +6,3 @@ Hello world 👋. I explore how Artificial Intelligence (AI) can help us solve c
 or how we create [city-scale car traffic and parking density maps from Uber Movement travel time data](https://www.nature.com/articles/s41597-019-0159-6).
 
 <img src="/MethodFigure.png" />
-
-
-
-<!-- Let's use AI to turn our world into a better place! 
-![](https://github.com/ArsamAryandoust/ArsamAryandoust/blob/master/rollover.gif) -->
-
