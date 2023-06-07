@@ -8,6 +8,6 @@ how we create [city-scale car traffic and parking density maps from Uber Movemen
 <img src="/MethodFigure.png" />
 
 
-or how we [unify machine learning tasks and datasets for enhancing renewable energy](https://github.com/ArsamAryandoust/EnergyTransitionTasks)
+or how we [unify machine learning tasks and datasets for enhancing renewable energy](https://github.com/ArsamAryandoust/EnergyTransitionTasks).
 
 <img src="/unified_data_representation.png" />
