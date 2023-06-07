@@ -3,6 +3,11 @@ Hi 👋, I explore how Artificial Intelligence can help us solve climate change.
 <img src="/plotly_dark_4.png" />
 
 
-or how we create [city-scale car traffic and parking density maps from Uber Movement travel time data](https://www.nature.com/articles/s41597-019-0159-6).
+how we create [city-scale car traffic and parking density maps from Uber Movement travel time data](https://www.nature.com/articles/s41597-019-0159-6),
 
 <img src="/MethodFigure.png" />
+
+
+or how we [unify machine learning tasks and datasets for enhancing renewable energy](https://github.com/ArsamAryandoust/EnergyTransitionTasks)
+
+<img src="/unified_data_representation.png" />
